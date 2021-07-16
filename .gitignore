@@ -1,0 +1,6 @@
+# List of untracked files to ignore
+
+*.cs
+test.cs
+/test-output
+matlab.exe
